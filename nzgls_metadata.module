@@ -1,0 +1,3 @@
+<?php
+
+include_once('nzgls_metadata.features.inc');
